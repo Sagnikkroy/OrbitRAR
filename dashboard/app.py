@@ -338,7 +338,7 @@ with tab2:
             font=dict(color="#ffd700", size=12), showarrow=False)
 
         fig.update_layout(
-            title=dict(text=title, font=dict(color='#00d4ff', size=14)),
+            title=dict(text=title, font=dict(color="#fdfdfd", size=14)),
             paper_bgcolor='#0a0a1a', plot_bgcolor='#0a0a1a',
             font=dict(color='white'),
             xaxis=dict(title="Longitude (°)", gridcolor='#222'),
